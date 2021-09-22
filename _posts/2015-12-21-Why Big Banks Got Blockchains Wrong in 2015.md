@@ -65,4 +65,4 @@ Private blockchains will be important – but not in the ways this year's adhere
 
 Similarly, it may simply be the legacy of private blockchains to "sell regulators on the idea of blockchains", as banks and payment processors embark upon a more sustainable path towards profitability in the form of regulatory arbitrage.
 
-<span style="color:grey">-A.R.B</span>
+<span style="color:grey">- A.R.B</span>
