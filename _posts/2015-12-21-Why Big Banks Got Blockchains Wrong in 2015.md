@@ -51,9 +51,7 @@ And just recently, skepticism of the distributed ledger space was put forth by n
 
 So what can we expect for blockchains in 2016?
 
-Few spaces are as active as this one, and the successes will become obvious. These successes are already found in comparatively older companies such as Alphabay, and Backpage.
-
-New entrants in the space that seem to have best adopted the blockchain's efficiency would include Nitrogen Sports, a bitcoin sportsbook and casino, and the quirky (yet addictive) game BitKong.
+New entrants in the space that seem to have best adopted the blockchain's efficiency would include Alphabay, a darknet marketplaceb; Nitrogen Sports, a bitcoin sportsbook and casino; and the quirky (yet addictive) game BitKong.
 
 Apps which will successfully utilise a blockchain will be successful, not because people want to use blockchains, but because they have to. Even more disruptive apps are on the horizon, and while these apps are certainly ambitious by today's standards, 'disruption' is purportedly what FinTech is all about.
 
