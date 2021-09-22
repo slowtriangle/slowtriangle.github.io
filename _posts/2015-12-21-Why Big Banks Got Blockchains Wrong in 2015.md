@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Finance Industry Got Blockchains Wrong in 2015"
+title:  "The Finance Industry Doesn't Need Blockchains"
 tags: bitcoin blockchain
 ---
 ![Blockchain cures what ails you!](/assets/snakeoil.jpg)
