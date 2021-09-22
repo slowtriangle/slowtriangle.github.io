@@ -3,6 +3,7 @@ layout: post
 title:  "Why Big Banks Got Blockchains Wrong in 2015"
 tags: bitcoin blockchains
 ---
+![Blockchain cures what ails you!] (https://www.airoasis.com/wp-content/uploads/2018/06/Is-Air-Purification-Snake-Oil-or-a-Legitimate-Concern-1-1024x537.jpg "Snake Oil")
 
 If you wanted to survey the state of private blockchains in 2015, it would be hard to find a better example than by simply watching the blockchain panel at this year's Innotribe conference.
 
