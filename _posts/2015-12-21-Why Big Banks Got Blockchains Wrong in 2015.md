@@ -64,3 +64,5 @@ In the world of lockchains, there is no idea quite so unprofitable as an idea wh
 Private blockchains will be important – but not in the ways this year's adherents have promised. Blockchains will likely increase pressure on regulators to reduce their overhead as regulatory burdens in the settlement industry are rendered redundant.
 
 Similarly, it may simply be the legacy of private blockchains to "sell regulators on the idea of blockchains", as banks and payment processors embark upon a more sustainable path towards profitability in the form of regulatory arbitrage.
+
+<span style="color:grey">-A.R.B</span>
