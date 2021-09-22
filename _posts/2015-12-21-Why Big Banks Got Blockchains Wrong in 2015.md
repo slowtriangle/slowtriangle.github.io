@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Why Big Banks Got Blockchains Wrong in 2015"
-tags: bitcoin blockchains
+title:  "The Finance Industry Got Blockchains Wrong in 2015"
+tags: bitcoin blockchain
 ---
 ![Blockchain cures what ails you!](/assets/snakeoil.jpg)
 
