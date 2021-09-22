@@ -31,7 +31,7 @@ plugins:
 # Build settings
 remote-theme: jekyll/minima
 
-minima:
+jekyll/minima:
   skin: dark
 
 # Exclude from processing.
