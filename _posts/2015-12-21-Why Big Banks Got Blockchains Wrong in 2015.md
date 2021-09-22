@@ -13,7 +13,7 @@ With every year comes a new audience fresh to the field with ambitions to solve 
 
 If you read through the marketing brochures for the private ledger companies, the takeaway would appear to be hinged on the discovery of a great new technology that performs data-checksumming at blistering speeds and in ways that were previously encumbering the entirety of our modern finance industry.
 
-Consider me skeptical.
+**Consider me skeptical**.
 
 Notarisation was never a feature of blockchains, and had previously been considered one of their greatest 'bugs'. If you ask most bitcoin developers what the most pressing problem is with their blockchain, you're likely to hear that 'fungibility' is its biggest weakness. Fungibility in this case being simply the opposite of regulatory oversight and reporting.
 
@@ -23,7 +23,8 @@ Unique to this year's entrants is the notion that tokens are bad, but that 'shar
 
 If nothing else, the big winners in 2015 may remain those efforts which secured the most funding.
 
-## Blockchain propaganda
+
+# Blockchain propaganda
 
 Computerised settlement, notarisation and checksumming is a mature industry that has never before been hampered in its efficiency by anything other than regulation. These regulations are generally very efficient in normalising risks in the finance sector, and software in the field has performed precisely as well as the regulatory framework allows.
 
@@ -45,7 +46,8 @@ American Express led the charge with a sizable round of funding for the innovati
 
 And just recently, skepticism of the distributed ledger space was put forth by none other than Izabella Kaminska of the Financial Times, who wrote a short and impressive dismissal of this new industry in which the headline alone summarizes it best: "Psuedo profound buzzword banking revolutions involving coins".
 
-## What does the future hold?
+
+# What does the future hold?
 
 So what can we expect for blockchains in 2016?
 
