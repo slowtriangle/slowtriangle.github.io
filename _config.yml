@@ -22,12 +22,9 @@ title: Andrew Barr
 author:
   name: Andrew Barr
   email: andrew@andrewbarr.org
-
-minima:
-  social_links:
-    twitter: slowtriangle
-    github: slowtriangle
-    keybase: slowtriangle
+  twitter: slowtriangle
+  github: slowtriangle
+  keybase: slowtriangle
 
 plugins:
   - jekyll-feed
