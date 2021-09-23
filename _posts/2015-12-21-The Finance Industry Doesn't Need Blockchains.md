@@ -5,7 +5,7 @@ tags: bitcoin blockchain
 ---
 ![Blockchain cures what ails you!](/assets/snakeoil.jpg)
 
-If you wanted to understand the state of private blockchains in 2015, you need only observe the disucssions that took place on Day 1 of the SWIFT Innotribe conference at Sibos 2015.
+If you wanted to understand the state of private blockchains in 2015, you need only observe the discussions that took place on Day 1 of the SWIFT Innotribe conference at Sibos 2015.
 
 During this "Blockchain session" a large group of finance industry professionals and "blockchain experts" agreed that blockchains were the wave of the future – despite a complete lack of consensus on what a blockchain is, or why one is even needed.
 
