@@ -7,7 +7,7 @@ tags: bitcoin blockchain
 
 If you wanted to understand the state of private blockchains in 2015, you need only observe the disucssions that took place on Day 1 of the SWIFT Innotribe conference at Sibos 2015.
 
-During this "Blockchain session" a large group of finance industry professionals and "blockchain experts" agreed that blockchains were the wave of the future – despite a complete lack of consensus on what a blockchain is. Or even why one is needed.
+During this "Blockchain session" a large group of finance industry professionals and "blockchain experts" agreed that blockchains were the wave of the future – despite a complete lack of consensus on what a blockchain is, or why one is even needed.
 
 With every year comes a new audience fresh to the field with ambitions to solve all the problems of our day with blockchain. Common to nearly all of this year's pitches are the efficiencies this can bring to the process of "notarisation".
 
