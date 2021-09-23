@@ -27,7 +27,7 @@ The predictions that I made are really the following:
 
 So here’s what I think will happen going forward.
 
-1. Node centralsation. Bitcoin suffers criticisms of miner centralisation. I know a lot of individuals (even among core) think that this is a problem. Honestly, I’m not too worried about it. Perhaps that’s naive. But I see miners as highly mobile, and their equipment as highly portable. This may be giving Ethereum too long of a life, but presuming that Ethereum marches forward for some time, it will grow too large for individuals to have on their computers. This sharding proposal is a pie in the sky punt meant to distract from incompetence. Unlike government declaring, one cannot simply declare that something will be achieved in real life.
+1. Node centralisation. Bitcoin suffers criticisms of miner centralisation. I know a lot of individuals (even among core) think that this is a problem. Honestly, I’m not too worried about it. Perhaps that’s naive. But I see miners as highly mobile, and their equipment as highly portable. This may be giving Ethereum too long of a life, but presuming that Ethereum marches forward for some time, it will grow too large for individuals to have on their computers. This sharding proposal is a pie in the sky punt meant to distract from incompetence. Unlike government declaring, one cannot simply declare that something will be achieved in real life.
 
 2. Hacking ennui. It will become an expectation that Ethereum just explodes once or twice a year from hacks and exploits. It will become the chain of children. No one serious or interested in finance will use it. It will be regarded as a trash chain.
 
