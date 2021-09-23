@@ -22,7 +22,7 @@ title: Andrew Barr
   author: 
   name: Andrew Barr
  email: andrew@andrewbarr.org
-description:""
+description: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
