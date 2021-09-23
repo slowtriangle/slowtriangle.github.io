@@ -23,10 +23,11 @@ author:
   name: Andrew Barr
   email: andrew@andrewbarr.org
 
-social_links:
-  twitter: slowtriangle
-  github: slowtriangle
-  keybase: slowtriangle
+minima:
+  social_links:
+    twitter: slowtriangle
+    github: slowtriangle
+    keybase: slowtriangle
 
 plugins:
   - jekyll-feed
