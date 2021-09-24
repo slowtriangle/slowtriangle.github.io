@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "COVID Externality Bonds"
+title:  "Introducing COVID Externality Bonds"
 tags: covid19 money china
 ---
 
