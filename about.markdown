@@ -14,7 +14,8 @@ Some things you should know:
 
 My PGP key:
 
-````-----BEGIN PGP PUBLIC KEY BLOCK-----
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGFHLCMBEADAcDFwZBZ0g+0hBHo949Wrxrs4z4kduOXO+gaCS32eTPh2MtC8
 3hQiskUBY6yYhSoT09utLUtqdUmQW6IWdGy2DOB47VGr4cU8ZYwwN1276HYqPhRO
