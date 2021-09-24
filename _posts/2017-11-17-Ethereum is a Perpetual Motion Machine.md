@@ -36,3 +36,5 @@ So here’s what I think will happen going forward.
 4. Sharding will implode (sharting?). I guarantee sharding will have some hilarious attack vectors if they try it. I bet that Ethereum loses a ton of history data because some hacker will find it funny to destroy. This will require a hard fork or something else to fix. Whatever the case, it will be hilarious and a lot of people will lose money.
 
 5. Shaudenfreude will be criticised but is virtuous. No one likes when people lose money. But at this point, Noah has entered the ark and closed the door after warning everyone for a year about Ethereum’s problems.
+
+<span style="color:grey">- A.R.B</span>
