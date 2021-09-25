@@ -47,7 +47,7 @@ American Express led the charge with a sizable round of funding for the innovati
 And just recently, skepticism of the distributed ledger space was put forth by none other than Izabella Kaminska of the Financial Times, who wrote a short and impressive dismissal of this new industry in which the headline alone summarises it best: 
 
 >"Psuedo profound buzzword banking revolutions involving coins".
-
+> &mdash <cite>Izabella Kaminska, FT Alphaville, 2015</cite>
 
 # What does the future hold?
 
