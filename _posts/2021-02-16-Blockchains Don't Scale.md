@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducing COVID Externality Bonds"
+title:  "Blockchains Don't Scale"
 tags: bitcoin blockchain
 ---
 ![7 tps!?](/assets/tps.png)
