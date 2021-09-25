@@ -38,5 +38,4 @@ So here’s what I think will happen going forward.
 
 * **Shaudenfreude is virtuous**. No one likes when people lose money. But at this point, Noah has entered the ark and closed the door after warning everyone for a year about Ethereum’s problems.
 
----
 <span style="color:blue">/ARB</span>
