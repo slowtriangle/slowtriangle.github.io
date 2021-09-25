@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Introducing COVID Externality Bonds"
+excerpts: As the Corona Virus rages throughout the world, countries have seen trillions of dollars wiped off their economic balance sheets. Companies have been ruined, and central banks have responded by frantically printing money to stave off further problems. In some countries, they are proposing sending citizens stimulus cheques to get through the crisis.
 tags: covid19 money china
 ---
 
