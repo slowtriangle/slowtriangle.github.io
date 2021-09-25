@@ -12,7 +12,7 @@ Some things you should know:
 4. Blockchains aren't immutable.
 5. The universe doesn't owe you solutions.
 
-My PGP key:
+PGP Public Key:
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
