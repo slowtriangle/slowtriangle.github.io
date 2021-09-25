@@ -48,7 +48,7 @@ And just recently, skepticism of the distributed ledger space was put forth by n
 
 >"Psuedo profound buzzword banking revolutions involving coins".
 >
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&mdash; <cite>Izabella Kaminska, FT Alphaville, 2015</cite>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&mdash; [Izabella Kaminska](https://www.ft.com/content/8be7bed9-ea13-3fa3-b8ca-96b98a10a564), FT Alphaville, 4th December 2015.
 
 # What does the future hold?
 
