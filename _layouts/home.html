@@ -15,6 +15,11 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: full_base_url }}">{{ post.title | escape }}</a>
         </h2>
+        <h2>
+          {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+          {%- endif -%}
+        </h2>
       </li>
     {% endfor %}
   </ul>
