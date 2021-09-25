@@ -3,7 +3,7 @@ layout: post
 title:  "Introducing COVID Externality Bonds"
 tags: bitcoin blockchain
 ---
-![7 tps!?](/assets/tps.jpg)
+![7 tps!?](/assets/tps.png)
 
 This is the central issue of Bitcoin’s skeptics. Bitcoin doesn’t scale, they say. But the scaling question is stupid. You don’t understand what’s going on here if you think it matters. Let me explain why.
 
