@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Blockchains Don't Scale"
+excerpt: This is the central issue of Bitcoin’s skeptics. Bitcoin doesn’t scale, they say. But the scaling question is stupid. You don’t understand what’s going on here if you think it matters. Let me explain why.
 tags: bitcoin blockchain
 ---
 ![7 tps!?](/assets/tps.png)
