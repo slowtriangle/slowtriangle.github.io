@@ -64,5 +64,3 @@ Private blockchains will be important – but not in the ways this 2015's evange
 The legacy of private blockchains may simply be that they sold regulators on the "idea of blockchains", allowing banks and payment processors to pursue new areas of profitability in the form of regulatory arbitrage...
 
 ...all without blockchains.
-
-<span style="color:grey">- A.R.B</span>
