@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Finance Industry Doesn't Need Blockchains"
+excerpt: If you wanted to understand the state of private blockchains in 2015, you need only observe the discussions that took place on Day 1 of the SWIFT Innotribe conference at Sibos 2015.
 tags: bitcoin blockchain
 ---
 ![Blockchain cures what ails you!](/assets/snakeoil.jpg)
