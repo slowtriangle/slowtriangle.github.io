@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Ethereum is a Perpetual Motion Machine"
+excerpts: I think that my position on Ethereum is clear. ETH started as a money grabbing project with very little in the way of future prospects. 
 tags: ethereum
 ---
 
@@ -8,7 +9,7 @@ tags: ethereum
 
 I think that my position on Ethereum is clear. ETH started as a money grabbing project with very little in the way of future prospects. 
 
-Since criticising Ethereum long before it’s release, we have come a long way and ETH seems to have found its loyal bag carriers. However, to date, I would contend that all of my criticisms of Ethereum have been shown to be accurate. Amazingly, the chain’s demise is distant and as seems to be the case with blockchains, “demise” is, perhaps the wrong word. These things don’t die. They only… sort of fade away until someone somewhere revives the lost history. They fade into obscurity and disuse. But as long as there are believers and promoters, there is a chance that it will find price support somewhere. Even Sexcoin seems to have an £12,000 market cap.
+Since criticising Ethereum long before it’s release, we have come a long way and ETH seems to have found its loyal bag holders. However, to date, I would contend that all of my criticisms of Ethereum have been shown to be accurate. Amazingly, the chain’s demise is distant and as seems to be the case with blockchains, “demise” is, perhaps the wrong word. These things don’t die. They only… sort of fade away until someone somewhere revives the lost history. They fade into obscurity and disuse. But as long as there are believers and promoters, there is a chance that it will find price support somewhere. Even Sexcoin seems to have an £12,000 market cap.
 
 In a way, the flaw of the blockchain model is that they are decentralised corporations. But there is nothing like decentralised "bankruptcy” for these corporations. While I suspect bankruptcy might look like waning emissions, it seems like these blockchains don’t explode like a dying star, but, rather, just slowly lose believers like a church filled with old people. This is also their strength.
 
