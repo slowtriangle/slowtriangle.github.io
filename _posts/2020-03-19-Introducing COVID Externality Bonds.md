@@ -6,7 +6,7 @@ tags: covid19 money china
 
 ![Xi](/assets/xi.jpg)
 
-As the Corona Virus rages throughout the world, countries have seen trillions of dollars wiped off their economic balance sheets. Companies have been ruined, and central banks have responded by frantically printing money to stave off further problems. In some countries, they are proposing sending citizens thousand stimulus cheques to get through the crisis.
+As the Corona Virus rages throughout the world, countries have seen trillions of dollars wiped off their economic balance sheets. Companies have been ruined, and central banks have responded by frantically printing money to stave off further problems. In some countries, they are proposing sending citizens stimulus cheques to get through the crisis.
 
 Here’s the problem. The world has no way of dealing with international externalities. China refuses to deal with its wet markets, or run its labs responsibly. This virus is one of many that we regularly have to deal with that originates in China. The Chinese government refuses to address the unhealthy proximity of humans and animals in its agriculture and meat production industry and we have to deal with the fallout. We know that many of these animals harbour viruses that are just a few mutations away from transmission to humans.
 
